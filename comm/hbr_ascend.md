@@ -1,0 +1,9 @@
+https://hbrascend.org/topics/7-intelligent-comebacks-for-when-conversations-turn-negative/
+
+https://hbrascend.org/topics/finding-the-right-words-in-a-crisis/
+https://hbrascend.org/topics/how-to-choose-the-right-words-to-communicate-in-a-crisis-infographic/
+https://hbrascend.org/topics/choose-the-right-words-in-an-argument/
+https://hbrascend.org/topics/dos-and-donts-how-to-disagree-with-someone-more-powerful-than-you/
+https://hbrascend.org/topics/how-to-choose-the-right-words-to-communicate-in-a-crisis-infographic/
+https://hbrascend.org/being-happy-at-work/managing-stress/
+https://hbrascend.org/topics/how-to-handle-stress-in-the-moment-2/
