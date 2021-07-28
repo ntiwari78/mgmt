@@ -6,3 +6,4 @@
 - https://ideas.ted.com/3-principles-to-building-and-keeping-a-great-relationship-with-a-mentor/
 - https://ideas-ted-com.cdn.ampproject.org/c/s/ideas.ted.com/3-mental-blocks-that-keep-you-from-doing-what-you-say-you-want-to-do/amp/
 - https://www.ted.com/talks/elizabeth_cox_what_is_imposter_syndrome_and_how_can_you_combat_it
+- https://ideas.ted.com/4-ways-to-make-people-feel-valued-at-work-hybrid-remote-team/
