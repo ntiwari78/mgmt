@@ -8,3 +8,4 @@
 - https://www.ted.com/talks/elizabeth_cox_what_is_imposter_syndrome_and_how_can_you_combat_it
 - https://ideas.ted.com/4-ways-to-make-people-feel-valued-at-work-hybrid-remote-team/
 - https://www.ted.com/playlists/211/the_art_of_meaningful_conversa
+- https://www.ted.com/playlists/500/talks_to_help_you_find_the_ide
