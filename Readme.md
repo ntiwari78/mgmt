@@ -9,3 +9,6 @@
 - https://ideas.ted.com/4-ways-to-make-people-feel-valued-at-work-hybrid-remote-team/
 - https://www.ted.com/playlists/211/the_art_of_meaningful_conversa
 - https://www.ted.com/playlists/500/talks_to_help_you_find_the_ide
+- https://www.ted.com/playlists/673/10_days_of_positive_thinking
+- https://www.ted.com/playlists/240/talks_to_save_you_time_at_work
+- https://www.ted.com/talks/itay_talgam_lead_like_the_great_conductors
