@@ -1,194 +1,139 @@
 ## Stoic Quotes
-- 1. you have power over your mind not outside events realize this and you will find strength
-- 2. very little is needed to make a happy life it is all within yourself in your way of thinking
-- 3. today i escaped anxiety although ,i discarded it because it was within me in my own perceptions not outside
-- 4. if it's not right don't do it if it's not true don't say it
-- 5. the best revenge is not to be like your enemy.
-- 6. accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart
-- 7. confine yourself to the present when you arise in the morning think of what a precious privilege it is to be alive to breathe to think to enjoy to love
-- 8.whatever happens to you has been waiting to happen since the beginning of time
-- 9. to live happily is an inward power of the soul
-- 10. you can commit injustice by doing nothing [Music]
-- 11. waste no more time arguing about what a good man should be
-- 12. do every act of your life as if it were your last
-- 13. it is not death that a man should fear but he should fear never beginning to [Music]
-- 14. the first step don't be anxious nature controls it all the second step concentrate on what you have to do fix your eyes on it remind yourself that your task is to be a good human being remind yourself what nature demands of people then do it without hesitation and speak the truth as you see it but with kindness with humility  without hypocrisy
-- 15. don't be overheard complaining not even to yourself
-- 16. do not be perturbed for all things are according to the nature of the universal and in a little time you will be nobody and nowhere
-- 17.  true good fortune is what you make for yourself good fortune good character good intentions good actions
-- 18. let not your mind run on what you lack as much as on what you already have
-~~~
-6:40
-[Music] objective judgment now at this very
-6:45
-moment unselfish action now at this very moment
-6:51
-willing acceptance now at this very moment of all external events
-6:59
-that's all you need
-7:12
-~~~
+- 1. You have power over your mind - not outside events. Realize this and you will find strength.
+- 2. Very little is needed to make a happy life. It is all within yourself in your way of thinking
+- 3. Today I escaped anxiety. Or no ,I discarded it because it was within me, in my own perceptions - not outside
+- 4. If it's not right, don't do it. If it's not true, don't say it
+- 5. The best revenge is not to be like your enemy.
+- 6. Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart
+- 7. Confine yourself to the present.
+- 8. When you arise in the morning think of what a precious privilege it is to be alive - to breathe to think to enjoy to love.
+- 9. Whatever happens to you has been waiting to happen since the beginning of time.
+- 9. To live happily is an inward power of the soul.
+- 10. You can commit injustice by doing nothing.
+- 11. Waste no more time arguing about what a good man should be. Be one.
+- 12. Do every act of your life as if it were your last.
+- 13. It is not death that a man should fear but he should fear never beginning to live.
+- 14. The first step don't be anxious. Nature controls it all.
+-  15. The second step concentrate on what you have to do fix your eyes on it remind yourself that your task is to be a good human being remind yourself what nature demands of people. Then do it without hesitation and speak the truth as you see it but with kindness with humility.  Without hypocrisy
+- 16. Don't be overheard complaining not even to yourself.
+- 17. Do not be perturbed, for all things are according to the nature of the universal and in a little time you will be nobody and nowhere.
+- 18. True good fortune is what you make for yourself. Good fortune : Good character: Good intentions: Good actions
+- 19. Let not your mind run on what you lack as much as on what you already have.
+- 20. objective judgment now at this very moment unselfish action now at this very moment willing acceptance now at this very moment of all external events that's all you need.
 
-- 19. almost nothing material is needed for a happy life for he who has understood existence
-- 20. receive wealth or prosperity without arrogance and be ready to let it go
-- 21. for god's sake stop honoring externals quit turning yourself into the tool of
-- 22. mere matter or people who can supply you or deny you
-7:53
-those material things
-8:01
-[Music]
+- 21. Almost nothing material is needed for a happy life for he who has understood existence.
+- 22. Receive wealth or prosperity without arrogance and be ready to let it go.
+- 23. For god's sake stop honoring externals, quit turning yourself into the tool of mere matter or people who can supply you or deny you those material things.
 
-- a man when he has done a good act does not call out for others to come and see
+- 24. A man when he has done a good act does not call out for others to come and see but he goes on to another act as a vine goes on to produce again the grapes in season. 
+- 25. Is any man afraid of change? What can take place without change? What then is more pleasing or more suitable to the universal nature
+and can you take a hot bath unless the wood for the fire undergoes a change and can you be nourished unless the food undergoes a change and can anything else that is useful be accomplished without change do you not see then that for yourself also to change is just the same and equally necessary for the universal nature 
 
-- but he goes on to another act as a vine goes on to produce again the
+- 26. Receive without pride, let go without attachment
+- 27. when you have assumed these names good : modest truthful rational a man of equanimity and magnanimous, take care that you do not change these names and if you should lose them quickly return to them
+- 28. I have often wondered how it is that every man loves himself more than all the rest of men but yet sets less value on his own opinions of himself than on the opinions of others.
 
-- grapes in season is any man afraid of change what can take place without change what then is more pleasing or more suitable to the universal nature
-and can you take a hot bath unless the wood for the fire undergoes a change and can you be
+- 29. Be content with what you are, and wish not change; nor dread your last day nor long for it.
 
-nourished unless the food undergoes a change and can anything else that is useful be
-
-accomplished without change do you not see then that for yourself
-
-also to change is just the same and equally necessary
-
-for the universal nature 
-
-- receive without pride let go without
-
-attachment
-
-when you have assumed these names good
-
-modest truthful rational a man of equanimity and
-
-magnanimous take care that you do not change these names
-
-and if you should lose them quickly return to them
-
-i have often wondered how it is that every man loves himself more than all the rest of men
-
-but yet sets less value on his own opinions of himself than on the opinions of others
-
-be content with what you are and wish not change nor dread your last day nor long for it
-
-- consider that before long you will be nobody and nowhere nor will any of these things
-exist that you now see nor any of those who are now living
-for all things are formed by nature to change and be turned and to perish in order
-that other things in continuous succession may exist
-in a word if there is a god all is well and if chance rules do not also be
-governed by it
-so i look for the best and am prepared for the opposite
-whatever happens as holy natural not novel or hard to deal with but familiar
-and easily handled
-- there is only one way to happiness and that is to cease worrying about things which are beyond the power of our will
-- the flourishing life cannot be achieved until we moderate our desires and see how superficial and fleeting they are
-- no man is free who is not master of himself
-- wealth consists not in having great possessions but in having few wants
-- whoever does not regard what he has as most ample wealth is unhappy,though he be master of the world
-- when your thoughts words and deeds form a seamless fabric you streamline your efforts and thus eliminates worry and dread
-- **it's time to stop being vague if you wish to be an extraordinary person if you wish to be wise then you should explicitly identify the kind of person you aspire to become**
-- if you seek truth you will not seek to gain a victory by every possible means and when you have found truth you need not fear being defeated
-- let silence be your general rule or say only what is necessary and in few words 
-- know first who you are and then adorn yourself accordingly
-- first say to yourself what you would be and then do what you have to do
-- circumstances don't make the man they only reveal him to himself
-- freedom is the only worthy goal in life it is one by disregarding things that lie beyond our control
-- we cannot choose our external circumstances but we can always choose how we respond to them
-- don't explain your philosophy. embody it.
-- although we can't control which roles are assigned to us it must be our business to act our given role as best as we possibly can and to refrain from complaining about it wherever you find yourself and in whatever circumstances give an impeccable performance
-- first learn the meaning of what you say and then speak
-- nothing great is created suddenly any more than a bunch of grapes or a fig if you tell me that you desire a fig i answer you that there must be time. let it first blossom then bear fruit then ripen
-- people are not disturbed by things but by the view they take of them
-- sometimes even to live is an act of courage.
-- true happiness is to enjoy the present without anxious dependence upon the future not to amuse ourselves with either hopes or fears but to rest satisfied with what we have
-which is sufficient for he that is so wants nothing
-the greatest blessings of mankind are within us and within our reach a wise man is
-content with his lot whatever it may be without wishing for what he has not
-- **luck is what happens when preparation meets opportunity.**
-- all cruelty springs from weakness.
-- there is no easy way from the earth to the stars.
-- difficulties strengthen the mind as labour does the body
-- we suffer more often in imagination than in reality
-- as is a tale so is life not how long it is but how good it is is what matters
-- you act like mortals in all that you fear and like immortals in all that you desire
-- hang on to your youthful enthusiasms you'll be able to use them better when you're older.
-- if a man knows not to which port he sails no wind is favorable
-- it is the power of the mind to be unconquerable.
-- it is not that we have so little time but that we lose so much. The life we receive is not short but we make it so we are not ill-provided but we use what
-we have wastefully 
-- it is not the man who has too little but the man who craves more that is poor
-- begin at once to live and count each separate day as a separate life
-- he who is brave is free
-- what need is there to weep over parts of life the whole of it calls for tears
-- if you really want to escape the things that harass you what you're needing is not to be in a
-different place but to be a different person 
-- no man was ever wise by chance. 
-- until we have begun to go without them we fail to realize how unnecessary many things are we've been using them not because we needed them but because we had them
-- they lose the day in the expectation of the night and the night in fear of the dawn
-- associate with people who are likely to improve you
-- he suffers more than necessary who suffers before it is necessary
-- i shall never be ashamed of citing a bad author if the line is good
-- only time can heal what reason cannot
-- ignorance is the cause of fear
-- putting things off is the biggest waste of life. it snatches away each day as it comes
-and denies us the present by promising the future the greatest obstacle to living is expectancy
-which hangs upon tomorrow and loses today. you are arranging what lies in fortune's
-control and abandoning what lies in yours
-what are you looking at to what goal are you straining the whole future
-lies in uncertainty. live immediately.
-- most powerful is he who has himself in his own power.
-- life is like a play it is not the length but the excellence of the acting that matters.
-- wealth is the slave of a wise man the master of a fool
-- enjoy present pleasures in such a way as to not injure future ones
-- if you live in harmony with nature you will never be poor if you live according to what others
-think you will never be rich
-- as long as you live, keep learning how to
-live 
-- people are frugal in guarding their
-personal property but as soon as it comes to squandering time they are most wasteful of the one thing
-in which it is right to be stingy.
-- the sun also shines on the wicked.
-- fate leads the willing and drags along the reluctant
-- a sword never kills anybody it is a tool in the killer's hand
-- leisure without books is death and burial of a man alive
-- every new beginning comes from some other beginning's end
-- often a very old man has no other proof of his long life than his age
-- we learn not in school but in life
-- a gift consists not in what is done or given but in the intention of the giver or
-doer 
-- be kind for everyone you meet is fighting a harder battle
-- every heart sings a song incomplete until another heart whispers back those who wish to sing always find a song
-at the touch of a lover everyone becomes a poet
-- **wise men speak because they have something to say fools because they have to say something**
-- we can easily forgive a child who is afraid of the dark the real tragedy of life is when men are afraid of the light
-- only the dead have seen the end of war
-- the price good men pay for indifference to public affairs is to be ruled by evil men
-- do not train a child to learn by force or harshness but direct them to it by what amuses
-their minds so that you may be better able to discover with accuracy
-the peculiar bent of the genius of each
-- the heaviest penalty for declining to rule is to be ruled by someone inferior to yourself
-- according to greek mythology humans were originally created with four arms four legs and a head with two faces fearing their power zeus split them into
-two separate parts condemning them to spend their lives in search of their other halves
-- i am the wisest man alive for i know one thing and that is i know nothing
-- never discourage anyone who continually makes progress no matter how slow
-- love is a serious mental disease
-- one of the penalties of refusing to participate in politics is that you end up being governed by your inferiors
-- good people do not need laws to tell them how to act responsibly while bad people will find a way around the laws.
-- the measure of a man is what he does with his power.
-- ignorance the root and stem of every evil
-- if women are expected to do the same work as men we must teach them the same things
-- i'm trying to think don't confuse me with facts.
-- there is truth in wine and children
-- those who tell the stories rule society
-- **human behavior flows from three main sources desire, emotion and knowledge**
-- the madness of love is the greatest of heaven's blessings
-- education is teaching our children to desire the right things
-- there are three classes of men lovers of wisdom, lovers of honor, and lovers of gain
-- courage is knowing what not to fear.
-- in politics we presume that everyone who knows how to get votes knows how to administer a city or a
-state... when we are ill we do not ask for the handsomest physician
-or the most eloquent one
-- you should not honor men more than truth
+- 30. Consider that before long you will be nobody and nowhere nor will any of these things exist that you now see nor any of those who are now living
+for all things are formed by nature to change and be turned and to perish in order that other things in continuous succession may exist. 
+- 31. In a word if there is a god all is well; and if chance rules do not also be governed by it.
+- 32. So i look for the best and am prepared for the opposite.
+- 33. Treat whatever happens as holy natural not novel or hard to deal with but familiar and easily handled.
+- 34. There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+- 35. The flourishing life cannot be achieved until we moderate our desires and see how superficial and fleeting they are.
+- 36. No man is free who is not master of himself.
+- 37. Wealth consists not in having great possessions but in having few wants.
+- 38. Whoever does not regard what he has as most ample wealth is unhappy,though he be master of the world.
+- 39. When your thoughts, words and deeds form a seamless fabric, you streamline your efforts and thus eliminates worry and dread.
+- 40. **It's time to stop being vague if you wish to be an extraordinary person, if you wish to be wise then you should explicitly identify the kind of person you aspire to become.**
+- 41. If you seek truth, you will not seek to gain a victory by every possible means; and when you have found truth you need not fear being defeated.
+- 42. Let silence be your general rule or say only what is necessary and in few words.
+- 43. Know first who you are, and then adorn yourself accordingly.
+- 44. First say to yourself what you would be; and then do what you have to do.
+- 45. Circumstances don't make the man, they only reveal him to himself.
+- 46. Freedom is the only worthy goal in life. It is one by disregarding things that lie beyond our control.
+- 47. We cannot choose our external circumstances, but we can always choose how we respond to them.
+- 48. Don't explain your philosophy. Embody it.
+- 49. Although we can't control which roles are assigned to us, it must be our business to act our given role as best as we possibly can and to refrain from complaining about it. Wherever you find yourself and in whatever circumstances give an impeccable performance
+- 50. First learn the meaning of what you say and then speak.
+- 51. Nothing great is created suddenly, any more than a bunch of grapes or a fig. if you tell me that you desire a fig, i answer you that there must be time. let it first blossom then bear fruit then ripen
+- 52. People are not disturbed by things but by the view they take of them.
+- 53. Sometimes even to live is an act of courage.
+- 54. True happiness is to enjoy the present without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient for he that is so wants nothing. The greatest blessings of mankind are within us and within our reach a wise man is content with his lot whatever it may be without wishing for what he has not.
+- 55. **luck is what happens when preparation meets opportunity.**
+- 56. All cruelty springs from weakness.
+- 57. There is no easy way from the earth to the stars.
+- 58. **Difficulties strengthen the mind, as labour does the body.**
+- 59. We suffer more often in imagination than in reality.
+- 60. As is a tale so is life: not how long it is but how good it is is what matters.
+- 61. You act like mortals in all that you fear and like immortals in all that you desire.
+- 62. Hang on to your youthful enthusiasms you'll be able to use them better when you're older.
+- 63. If a man knows not to which port he sails, no wind is favorable
+- 64. It is the power of the mind to be unconquerable.
+- 65. It is not that we have so little time but that we lose so much. The life we receive is not short but we make it so; we are not ill-provided but we use what we have wastefully.
+- 66. It is not the man who has too little but the man who craves more that is poor.
+- 67. Begin at once to live and count each separate day as a separate life.
+- 68. He who is brave is free.
+- 69. What need is there to weep over parts of life the whole of it calls for tears.
+- 70. If you really want to escape the things that harass you, what you're needing is not to be in a
+different place but to be a different person.
+- 71. No man was ever wise by chance. 
+- 72. Until we have begun to go without them, we fail to realize how unnecessary many things are; we've been using them not because we needed them, but because we had them.
+- 73. They lose the day in the expectation of the night and the night in fear of the dawn.
+- 74. Associate with people who are likely to improve you.
+- 75. He suffers more than necessary who suffers before it is necessary.
+- 76. I shall never be ashamed of citing a bad author if the line is good.
+- 77. Only time can heal what reason cannot.
+- 78. Ignorance is the cause of fear.
+- 79. Putting things off is the biggest waste of life. It snatches away each day as it comes
+and denies us the present by promising the future. The greatest obstacle to living is expectancy
+which hangs upon tomorrow and loses today. You are arranging what lies in fortune's
+control and abandoning what lies in yours. What are you looking at to what goal are you straining the whole future lies in uncertainty. live immediately.
+- 80. Most powerful is he who has himself in his own power.
+- 81. Life is like a play: it is not the length but the excellence of the acting that matters.
+- 82. Wealth is the slave of a wise man. The master of a fool.
+- 83. Enjoy present pleasures in such a way as to not injure future ones.
+- 84. If you live in harmony with nature you will never be poor; if you live according to what others think you will never be rich
+- 85. **As long as you live, keep learning how to live.** 
+- 86. People are frugal in guarding their personal property but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.
+- 87. The sun also shines on the wicked.
+- 88. Fate leads the willing and drags along the reluctant.
+- 89. A sword never kills anybody it is a tool in the killer's hand.
+- 90. Leisure without books is death and burial of a man alive.
+- 91. Every new beginning comes from some other beginning's end.
+- 92. Often a very old man has no other proof of his long life than his age.
+- 93. We learn not in school but in life.
+- 94. A gift consists not in what is done or given but in the intention of the giver or doer. 
+- 95. Be kind for everyone you meet is fighting a harder battle.
+- 96. Every heart sings a song incomplete until another heart whispers back. Those who wish to sing always find a song
+at the touch of a lover everyone becomes a poet.
+- 97. **wise men speak because they have something to say; fools because they have to say something**
+- 98. We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+- 99. Only the dead have seen the end of war.
+- 100. The price good men pay for indifference to public affairs is to be ruled by evil men.
+- 101. Do not train a child to learn by force or harshness but direct them to it by what amuses their minds; so that you may be better able to discover with accuracy the peculiar bent of the genius of each.
+- 102. The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself.
+- 103. According to greek mythology humans were originally created with four arms, four legs and a head with two faces fearing their power Zeus split them into two separate parts condemning them to spend their lives in search of their other halves.
+- 104. I am the wisest man alive for i know one thing and that is I know nothing.
+- 105. Never discourage anyone who continually makes progress no matter how slow.
+- 106. Love is a serious mental disease.
+- 107. One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors.
+- 108. Good people do not need laws to tell them how to act responsibly, while bad people will find a way around the laws.
+- 109. The measure of a man is what he does with his power.
+- 110. Ignorance the root and stem of every evil.
+- 111. If women are expected to do the same work as men we must teach them the same things.
+- 112. I'm trying to think, don't confuse me with facts.
+- 113. There is truth in wine and children.
+- 114. Those who tell the stories rule society.
+- 115. **human behavior flows from three main sources: desire, emotion and knowledge.**
+- 116. The madness of love is the greatest of heaven's blessings.
+- 117. Education is teaching our children to desire the right things.
+- 118. There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+- 119. Courage is knowing what not to fear.
+- 120. In politics we presume that everyone who knows how to get votes knows how to administer a city or a
+state... when we are ill we do not ask for the handsomest physician or the most eloquent one.
+- 121. You should not honor men more than truth.
 - there are two things a person should never be angry at what they can help and what they cannot
 - when men speak ill of thee live so as nobody may believe them
 - the beginning is the most important part of the work
