@@ -50,6 +50,8 @@
 
 **Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds** is a book by Carmine Gallo, published in 2014. It dissects the most successful TED talks and identifies the key elements that make them engaging, persuasive, and memorable. The book provides actionable tips and insights that anyone can use to improve their public speaking skills.
 
+- https://www.actionablebooks.com/en-ca/summaries/talk-like-ted/
+
 ## 9 Secrets of Successful TED Talks
 
 1. **Unleash the Master Within**
