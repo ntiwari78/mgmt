@@ -46,3 +46,27 @@
 
 The book provides practical advice and strategies for overcoming these dysfunctions and building a cohesive, high-performing team.
 
+# 3
+# Start with Why Summary
+
+**Start with Why: How Great Leaders Inspire Everyone to Take Action** is a book by Simon Sinek, published in 2009. The book introduces the concept of the "Golden Circle" as a framework for understanding how great leaders and organizations inspire action and achieve success.
+
+## The Golden Circle
+
+1. **Why**: This represents the core belief, purpose, or cause that drives an organization or individual.
+   - Great leaders and organizations start with a clear understanding of their "Why"
+   - Communicating the "Why" helps inspire and connect with others on an emotional level
+
+2. **How**: This refers to the methods, strategies, and processes that organizations use to fulfill their "Why".
+   - The "How" is the practical implementation of the "Why"
+   - Understanding and communicating the "How" helps to differentiate an organization from its competitors
+
+3. **What**: This represents the products, services, or results that an organization provides.
+   - The "What" is the tangible outcome of the "Why" and "How"
+   - Many organizations focus primarily on the "What", but it is the least effective way to inspire action
+
+## Key Insights
+
+- **The Importance of Starting with Why**: Organizations and leaders who start with their "Why" are more successful at inspiring and motivating others to take action
+
+
