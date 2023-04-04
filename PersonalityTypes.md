@@ -1,3 +1,5 @@
+## Notes
+
 ## MBTI Personality Types
 | Types |
 |-------|
