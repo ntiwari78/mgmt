@@ -94,3 +94,75 @@ _**Don't miss:**_
 *   [_**Want to sound more confident? Ditch these 10 phrases that make you look 'insecure' and 'arrogant,' say word experts**_](https://www.cnbc.com/2022/11/20/want-to-sound-more-confident-ditch-these-phrases-that-make-you-look-arrogant-and-insecure-say-psychologists.html)
 *   [_**This 28-year-old built a side hustle that brings in $30,000 a month: 'I only have to work 6 hours a week'**_](https://www.cnbc.com/2022/12/06/28-year-old-built-a-side-hustle-that-brings-in-30000-a-month-i-only-have-to-work-6-hours-a-week.html)
 *   [_**Elon Musk asks this question at every interview to spot a liar—why science says it actually works**_](https://www.cnbc.com/2021/01/26/elon-musk-favorite-job-interview-question-to-ask-to-spot-a-liar-science-says-it-actually-works.html)
+
+## Power of Introverts
+I've always been an introvert. When I got my first job after earning my PhD in neuroscience, I was concerned that I'd have a tough time [communicating with others](https://www.cnbc.com/2020/08/13/to-be-great-at-public-speaking-distill-message-15-words-speech-trainer-says.html).
+
+But I quickly learned that I didn't need to force myself to be extroverted. The most underrated skill that successful people, especially introverts, have is the ability to write clearly.
+
+It doesn't matter what industry you're in. If you are a thoughtful and strategic writer, you'll be more confident in your interactions — in [emails](https://www.cnbc.com/2023/01/04/remove-these-toxic-phrases-from-your-vocabulary-say-career-experts-what-to-say-instead.html), [public speaking](https://www.cnbc.com/2021/06/21/bad-at-public-speaking-this-mental-trick-takes-just-15-minutes-says-speech-expert.html) or even just [small talk](https://www.cnbc.com/2019/03/07/stop-asking-how-are-you-harvard-researchers-say-this-is-how-successful-people-make-small-talk.html).
+
+Here's my best advice:
+
+1\. Pick the right format for your message.
+-------------------------------------------
+
+Before you communicate an idea or request, decide on the best format to deliver your information.
+
+For example, if you are sharing research involving complex data, then a PowerPoint displaying charts and images may be the best format.
+
+If you are announcing management decisions, send a detailed email. Bullet points are a great way to get readers to focus on and digest information. You can also use the "STAR" method: situation, task, action and result.
+
+For discussions like progress updates or collecting feedback, a short email or in-person visit is generally sufficient.
+
+2\. Avoid industry jargon.
+--------------------------
+
+Plain and simple language is the most effective way to articulate complex topics. Avoid jargon or industry acronyms, no matter how universal you think they are.
+
+Consider using graphics or analogies to drive your point home. One of the best examples I've ever seen of this was when an executive designed his annual financial strategy presentation to mimic a children's book.
+
+But don't include extraneous details that can go off topic or overwhelm the audience. If it's not necessary for the conversation, move it to the bottom of your note.
+
+3\. Reduce the amount of effort the audience needs to put in.
+-------------------------------------------------------------
+
+Your recipients are bombarded with emails and documents all day. So before you send anything:
+
+*   Remind them why you are reaching out (e.g. "regarding yesterday's meeting...").
+*   Format the email so it's easy to read on phone screens (e.g., short, bulleted sentences).
+*   Call out action items (e.g., "the next steps are...," "the deadline is...").
+*   If your message exceeds one page, create a separate document to attach and use the email to provide highlights.
+
+Don't assume that the audience has the same amount of context that you have. Provide baseline information to bring everyone to the same starting line.
+
+4\. Show your work.
+-------------------
+
+If you are dealing with a potentially controversial topic (e.g., allocating a budget or restructuring a company department), walk readers through your thought process.
+
+This approach builds confidence and shows people that you are thorough, can weave together a number of nuanced perspectives, and can provide key context when it comes to big decisions.
+
+Invite feedback, and make note of any concerns.
+
+5\. Write with precision.
+-------------------------
+
+Finally, you want to make sure you project a strong and capable presence in all aspects of your job.
+
+Before you send anything:
+
+*   Don't be sloppy. Check for typos, grammar and consistency in numbers.
+*   Avoid unnecessary jokes and humor. They don't translate well in writing, especially with people who don't know you.
+*   Challenge yourself to remove as many words, sentences and even whole ideas as possible. Then ask: Does my thesis still stand?
+
+Essentially, you should treat words like the valuable currency they are.
+
+_**Juliette Han** is a neuroscientist, biotech executive, faculty member at Columbia Business School, and academic advisor at Harvard Medical School. She holds a PhD in neuroscience from Harvard University, as well as an MS in physiological sciences and BS in neuroscience and physiological science, both from UCLA. Follow Juliette on_ [_Instagram_](https://www.instagram.com/juliettehanphd/)_,_ [_TikTok_](https://www.tiktok.com/@juliettehanphd)_,_ [_Twitter_](https://twitter.com/juliettehanphd) _and_ [_LinkedIn_](https://www.linkedin.com/in/juliettehan/)_._
+
+_**Don't miss:**_
+
+*   [_**Avoid these 5 phrases that make you sound passive aggressive—here's how successful people communicate**_](https://www.cnbc.com/2021/05/17/phrases-that-make-you-sound-passive-aggressive-and-how-successful-people-communicate.html)
+*   [_**People who are good at small talk always avoid these 7 mistakes, says public speaking expert**_](https://www.cnbc.com/2021/08/17/avoid-these-mistakes-if-you-want-to-be-good-at-small-talk-says-public-speaking-expert.html)
+*   [_**Want to sound and feel more confident? Ditch these 11 phrases from your vocabulary, say psychologists**_](https://www.cnbc.com/2022/09/18/want-to-sound-and-feel-more-confident-ditch-these-11-phrases-from-your-vocabulary-say-psychologists.html)
+
