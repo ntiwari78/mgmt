@@ -52,7 +52,7 @@ Designed to develop the ability to analyze and evaluate the content of a message
 The key to active listening is not just hearing the words but also understanding the message, showing empathy, and providing appropriate feedback. These activities can help develop these skills in a fun and engaging way.
 
 # The Barriers to Effective Listening
-
+- https://github.com/ntiwari78/mgmt/blob/master/BusinessCommunication/BarriersToEffectiveListening.md
 ### Barriers to Effective Listening 
 
 - Distractions
