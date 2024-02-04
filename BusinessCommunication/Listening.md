@@ -369,3 +369,138 @@ The key to active listening is not just hearing the words but also understanding
   
   - Builds trust and rapport when people feel heard and understood
   - Demonstrates respect and openness, encouraging a collaborative work environment
+
+# Practicle Tips For Improving Listening Skills
+### Practical Tips for Improving Listening Skills (00:00 - 09:30)
+
+- Active listening techniques:
+  
+  - Take notes to stay focused on the conversation and remember key points later
+  - Paraphrase or summarize what the speaker has said to ensure understanding and demonstrate engagement
+- Asking open-ended questions:
+  
+  - Show engagement and encourage deeper conversation and understanding
+  - Encourage a deeper conversation and understanding
+
+### Exercises for Improving Listening Skills
+
+- Mirroring exercise:
+  
+  - Repeat back what was heard, mirroring the speaker's words and emotions
+  - Focus listening practice: Listen without formulating a response in your mind
+- Non-verbal listening:
+  
+  - Pay attention to non-verbal cues like body language and facial expression
+  - Engage in conversations where non-verbal cues are important
+
+### Exercises to Enhance Note Taking Abilities
+
+- Cornell method practice:
+  
+  - Involves dividing your page into notes, cues, and summary sections
+  - Mind mapping: Create visual representations of information to connect ideas and concepts
+- Annotation techniques:
+  
+  - Underline key points, write summaries in the margins, and highlight important facts or figures
+  - Summarization: Write a summary based on your notes to reinforce material and identify key points
+
+### Exercises to Improve Paraphrasing
+
+- Article summarization:
+  
+  - Summarize a news article or blog post in your own words, capturing main ideas and details
+  - Literary paraphrasing: Rewrite a paragraph from a book or poem to convey the same message in a different way
+- Comparative paraphrasing:
+  
+  - Paraphrase a text and compare your version with others' paraphrases
+  - Multimedia paraphrasing: Watch a video or listen to an audio clip and paraphrase the content
+
+### Exercises on Asking Open-Ended Questions
+
+- Question formulation technique:
+  
+  - Formulate open-ended questions on various topics to encourage detailed responses
+  - Roleplay conversations: Engage in scenarios using only open-ended questions to gather information
+
+### Exercises on Non-Verbal Cues
+
+- Observation practice:
+  
+  - Spend time in public places observing people's interactions and body language
+  - Silent movie exercise: Watch a movie or video clip on mute and understand the story based on non-verbal cues
+
+### Continuous Improvement
+
+- Self-awareness and reflection:
+  
+  - Regularly reflect on listening habits and seek feedback from peers, mentors, and supervisors
+  - Set achievable goals and commit to specific techniques for improvement
+# Types of Listening
+### Types of Listening in Business Communication (00:00 - 02:43)
+
+- **Active Listening**
+
+  - The most engaged form of listening
+  - Involves full concentration, understanding, responding, and remembering what is being said
+
+- **Passive Listening**
+
+  - Occurs when the listener hears the words but does not fully engage with the content
+  - Common during long meetings or presentations when attention drifts
+
+### Specific Listening Types
+
+- **Empathetic Listening**
+
+  - Used in counseling, coaching, and conflict resolution
+  - Involves understanding the speaker's feelings, needs, and wants
+
+- **Critical Listening**
+
+  - Essential in decision-making and problem-solving situations
+  - Involves evaluating arguments, tone, language, and reliability of the message
+
+### Importance of Listening in Business
+
+- Different listening types can be effectively used in various business settings
+
+  - Negotiations, team meetings, client interactions, and leadership strategies
+
+- Strategies to Improve Listening
+
+  - Maintaining eye contact, noting body language, asking clarifying questions, and paraphrasing to confirm understanding
+
+# Active Listening 
+
+- Communication technique used in counseling, training, and conflict resolution
+  
+  - Gives free and undivided attention to the speaker
+  - Vital in business settings for building rapport, ensuring understanding, resolving conflicts, and improving accuracy in information exchange
+- Characteristics of an active listener
+  
+  - Full concentration
+  - Understanding the content and emotions of the speaker
+  - Remembering key information and details
+  - Non-verbal engagement
+
+### Importance of Active Listening in Business Negotiation
+
+- Enables negotiators to understand the needs, interests, and positions of the other party
+  
+  - Builds trust and identifies common ground
+  - Creates value in negotiations
+
+### Improving Active Listening Skills
+
+- Maintain eye contact
+  
+  - Shows full attention and engagement
+- Avoid interrupting
+  
+  - Shows respect for the speaker's input
+- Provide verbal feedback
+  
+  - Use small verbal comments like "yes, I see" or "go on" to encourage the speaker
+- Ask questions when appropriate
+  
+  - Promote deep understanding and provide the speaker with an opportunity to elaborate
