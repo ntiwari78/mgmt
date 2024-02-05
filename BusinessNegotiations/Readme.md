@@ -192,3 +192,76 @@
 - Focusing on interests in negotiations can lead to a mutually acceptable solution.
   
   - A focus on interests can lead to a win-win situation for both parties.
+## Mutual Adjustment
+
+### Mutual Adjustment in Negotiation 
+
+- Negotiation is driven by mutual adjustment
+  
+  - Constant give and take affects negotiation landscape
+  - Parties adjust strategies based on each other's actions
+- Recognizing the dynamic and making concessions is crucial
+  
+  - Effective negotiators understand people's adjustments and the fluid nature of negotiation
+
+### Dilemmas in Mutual Adjustment
+
+- Dilemma of honesty
+  
+  - Concerns how much truth to disclose during negotiations
+  - Telling everything may lead to disadvantage, while telling nothing may cause a stalemate
+- Dilemma of trust
+  
+  - Concerns how much to believe of what the other party says
+  - Trust may depend on the other party's reputation and current actions
+
+### Building Trust in Negotiation
+
+- Trust can be built through outcome perceptions
+  
+  - Convincing the other party that the proposed solution benefits them
+- Trust can also be built through process perceptions
+  
+  - Fair and balanced proposal or give and take build trust
+
+### Flexibility in Negotiation
+
+- Parties need to be flexible about the negotiation processes
+  
+  - Protecting own interests while finding ways to satisfy others
+  - Responding strategically to power tactics
+
+### Decision Making in Negotiation
+
+- Involves judgments and choices
+  
+  - Judgment: recognizing and evaluating opponent's content
+  - Choice: selecting an option from the content or list of options presented
+- Both sides need decision-making authority and commitment to the final deal
+
+### Managing Tangibles and Intangibles
+
+- Tangibles
+  
+  - Concrete elements (e.g., price, terms, delivery timelines)
+  - Negotiators focus on bargaining over these aspects
+- Intangibles
+  
+  - Underlying psychological motivations influencing parties
+  - Affect judgment about what is fair or right in conflict resolution
+
+### Importance of Honesty in Negotiation 
+
+- "why do good negotiators never lie? why is it a fact they would not lie? because lying in negotiation damages trust and reputation making future negotiations challenging"
+  
+  - Skilled negotiators use tactics such as remaining silent, playing dumb, or blaming rules to avoid lying
+  - Honesty builds trust and opens doors to mutually beneficial deals
+
+### Key Elements of Negotiation
+
+- Two or more parties
+  
+  - Interdependence, give and take process, mutual adjustment, flexibility, decision-making ability, managing tangibles, and resolving the intangibles
+- Familiar everyday and business examples used for explaining the definition and key characteristics
+  
+  - Understanding the foundational elements of negotiation for ease of understanding the content
