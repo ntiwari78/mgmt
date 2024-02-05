@@ -2,6 +2,9 @@
 - https://youtu.be/nkfXX-LsOIs
 -  Interests Behind Negotiating Positions  : https://www.youtube.com/watch?v=vdA2wecb4k0
 
+---
+---
+
 ### Readings
 - What is Negotiation?
     - [https://www.pon.harvard.edu/daily/negotiation-skills-daily/what-is-negotiation/](https://www.pon.harvard.edu/daily/negotiation-skills-daily/what-is-negotiation/)
@@ -33,6 +36,21 @@
         - https://www.pon.harvard.edu/daily/negotiation-skills-daily/making-the-first-move/
     - Dealmaking and the Anchoring Effect in Negotiations
         - https://www.pon.harvard.edu/daily/dealmaking-daily/dealmaking-grappling-with-anchors-in-negotiation/
+### Readings - Winner's Curse
+- Try to Avoid the Winners Curse When Negotiating [https://www.pon.harvard.edu/daily/dealmaking-daily/the-winners-curse/(https://www.pon.harvard.edu/daily/dealmaking-daily/the-winners-curse/)
+- Definition of the Winner’s Curse in Negotiations
+    - [https://www.pon.harvard.edu/daily/negotiation-skills-daily/identifying-the-winners-curse-in-negotiation/](https://www.pon.harvard.edu/daily/negotiation-skills-daily/identifying-the-winners-curse-in-negotiation/)
+- Winner’s Curse: Negotiation Mistakes to Avoid
+    - [https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
+
+### Other Readings
+- Essential Negotiation Skills: Limiting Cognitive Bias in Negotiation
+    - [https://www.pon.harvard.edu/daily/negotiation-skills-daily/integrative-negotiation-and-negotiating-rationally/](https://www.pon.harvard.edu/daily/negotiation-skills-daily/integrative-negotiation-and-negotiating-rationally/)
+- The Advantages of Bias at the Negotiation Table
+    - [https://www.pon.harvard.edu/daily/business-negotiations/using-bias-to-your-advantage/](https://www.pon.harvard.edu/daily/business-negotiations/using-bias-to-your-advantage/)
+
+### Follow the Science: Proven Strategies for Reducing Unconscious Bias
+- https://www.pon.harvard.edu/free-videos/follow-the-science-proven-strategies-for-reducing-unconscious-bias/
 
 ---
 ---
