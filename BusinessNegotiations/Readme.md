@@ -154,3 +154,41 @@
 - Negotiation involves interdependence, where parties need to work together for better outcomes
   
   - The characteristic of interdependence in negotiation will be further discussed in the upcoming sessions
+
+## Give and Take Process
+
+### Give and Take Process in Negotiations
+
+- Both sides modify or move away from their opening statements, requests, or demands.
+  
+  - Example of negotiation between Sheila (buyer) and Max (seller) over a sari.
+  - Max makes multiple price concessions from 5,000 to 3800 rupees.
+- Concession refers to a deviation in an offer towards the other party's interest, reducing expected benefits.
+  
+  - Sheila's move from 3500 to 3800 and Max's price adjustments are concessions.
+- Both parties modify their opening positions to reach an agreement.
+
+### Positions and Interests in Negotiation
+
+- Positions are surface statements of what a person or organization wants in a negotiation.
+  
+  - They rarely provide insight into underlying motivations, values, or incentives.
+- Interests are the underlying motivations or reasons behind a party's position.
+  
+  - Understanding interests allows for more productive negotiation and exploration of creative solutions.
+- Example of buyer and seller's interests influencing negotiation over a car purchase.
+  
+  - Buyer prioritizes affordability and functionality, while the seller's interest is in paying off debts and getting a fair value for the car.
+
+### Importance of Interests in Negotiations 
+
+- Positions tend to be fixed and rigid, requiring concessions from parties.
+  
+  - Modifying positions requires parties to make concessions either towards or away from the target point.
+- Interests are broader and offer multiple ways to resolve conflicts.
+  
+  - Interests define what the parties care about more broadly.
+  - Interests offer multiple ways to think about an issue.
+- Focusing on interests in negotiations can lead to a mutually acceptable solution.
+  
+  - A focus on interests can lead to a win-win situation for both parties.
