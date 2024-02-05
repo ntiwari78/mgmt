@@ -1,5 +1,6 @@
 # 1.
 - https://youtu.be/nkfXX-LsOIs
+-  Interests Behind Negotiating Positions  : https://www.youtube.com/watch?v=vdA2wecb4k0
 
 ### Readings
 - What is Negotiation?
@@ -15,7 +16,168 @@
 - Top 10 International Business Negotiation Case Studies
     - [https://www.pon.harvard.edu/daily/international-negotiation-daily/top-negotiation-case-studies-in-international-negotiations-from-business-and-global-politics/](https://www.pon.harvard.edu/daily/international-negotiation-daily/top-negotiation-case-studies-in-international-negotiations-from-business-and-global-politics/)
 
-### Negotiation Fundamentals 
+### Reading - Irrational Escalation of Commitment
+- Power in Negotiation: Examples of Being Overly Committed to the Deal  
+    - https://www.pon.harvard.edu/daily/dealmaking-daily/dealmaking-are-you-overly-committed-to-the-deal/
+- Framing in Negotiation
+    - https://www.pon.harvard.edu/daily/business-negotiations/framing-in-negotiation/
+- The Anchoring Bias Can Get Talks off to a Strong Start
+    - https://www.pon.harvard.edu/daily/negotiation-skills-daily/anchoring-bias-can-get-talks-off-strong-start/
+    - An Example of the Anchoring Effect – What to Share in Negotiation
+        - https://www.pon.harvard.edu/daily/negotiation-skills-daily/what-to-share-in-negotiation/
+    - What is the Anchoring Effect?
+        - https://www.pon.harvard.edu/tag/anchoring-effect/
+    - When Forming First Offers, Take Precision into Account
+        - https://www.pon.harvard.edu/daily/dealmaking-daily/forming-first-offers-take-precision-account-nb/
+    - Making the first move
+        - https://www.pon.harvard.edu/daily/negotiation-skills-daily/making-the-first-move/
+    - Dealmaking and the Anchoring Effect in Negotiations
+        - https://www.pon.harvard.edu/daily/dealmaking-daily/dealmaking-grappling-with-anchors-in-negotiation/
+
+---
+---
+
+## Position vs Interest
+
+### Importance of Understanding Interests in Negotiation 
+
+- In a negotiation between a government and a guerrilla group, the speaker realized the importance of understanding the underlying interests behind the position of the other party.
+  
+  - It became evident that while the guerrilla group had a clear position of seeking independence, their underlying interests were not clear.
+  - The key question in negotiation is to understand the "why" behind the customer's or counterpart's position.
+
+### Focusing on Interests Rather Than Positions
+
+- Successful negotiation involves looking beyond the stated positions and understanding the underlying interests, needs, desires, or concerns that motivate the other party.
+  
+  - This approach allows for addressing the underlying interests rather than just discussing positions and making concessions.
+  - By focusing on the underlying interests, negotiations can potentially lead to mutually beneficial outcomes.
+
+### Importance of Negotiation (00:03 - 10:01)
+
+- Negotiation is crucial for executives in today's challenging times.
+  
+  - Witnessed a global revolution in decision-making processes.
+  - Organizational pyramids are flattening into networks of negotiation.
+- Dependence on numerous individuals and organizations requires negotiation for success.
+- Power to change the game in negotiations is vital.
+
+### Role of Negotiation
+
+- Even individuals with significant power, like the President of the United States, negotiate constantly.
+  
+  - Emphasizes the need for continuous learning and reflection in negotiation.
+
+### Framework for Challenging Situations
+
+- Encourages participants to think of a challenging negotiation they are currently facing.
+  
+  - Distinguishes between internal and external negotiations.
+  - Majority finds internal negotiations more challenging.
+
+### Elements of Negotiation
+
+- Three key elements in any negotiation: interests, power, and relationships.
+  
+  - Balancing these elements is essential for successful negotiation.
+
+### Strategies for Negotiation
+
+- Preparation and negotiation stages involve consideration of interests, rights, and power.
+  
+  - Combining these six strategies maximizes the chances of reaching a satisfying agreement.
+  - Identifies the biggest obstacle in negotiation as not the other party.
+
+### Preparation for Successful Negotiation (10:04 - 14:35)
+
+- The biggest obstacle in negotiation is our own tendency to react without thinking
+  
+  - Reacting without thinking leads to regrettable actions, especially in the internet age
+- Avoid making decisions at the negotiation table
+  
+  - Psychological influence at the table can lead to hasty agreements
+  - Take time to consult others and gather information before making a decision
+
+### Key Elements in Negotiation
+
+- Satisfying interests is crucial
+  
+  - Successful negotiators listen more than they talk to understand the other party's perspective
+- Negotiation is an exercise in influence
+  
+  - Power of respect and listening is essential for successful negotiation
+- Transforming face-to-face confrontation to side-by-side problem-solving
+  
+  - Stepping to the side of the other party can change the dynamic from confrontation to collaboration
+### Negotiation Powers (00:12 - 10:11)
+
+- "Power of going to the balcony to focus on interests"
+  
+  - Challenge of negotiating interests out
+  - Negotiating from positions vs. negotiating from interests
+- "Power to reframe and redirect attention"
+  
+  - Use of problem-solving questions
+  - Redirecting attention to interests and options
+- "Power to expand the pie"
+  
+  - Seeking low-cost, high-benefit trades
+  - Perceived fairness and objective criteria
+
+### Overcoming Obstacles
+
+- "Obstacle of evaluating vs. creating"
+  
+  - Importance of creating before evaluating
+  - The art of brainstorming
+- "Obstacle of the contest of wills"
+  
+  - Impact of arbitrary pricing
+  - Importance of objective criteria in decision-making
+
+### Reaching Agreement
+
+- "The key words of negotiation"
+  
+  - Importance of 'yes' and 'no'
+  - Getting to the right 'yes'
+- "The positive 'no'"
+  
+  - Respectful way of saying no
+  - Starting with a 'yes'
+
+### Importance of Saying No 
+
+- "The whole idea in saying no is to be able to stand on your feet showing self-respect."
+  
+  - "No is the key word of self-respect, trying to protect what's most important to you."
+- "Gandhi once said, 'A no that is uttered from deepest conviction is better and greater than a yes which is merely uttered to please or avoid trouble.'"
+
+### The Structure of Saying No
+
+- "The first yes is like the roots of the tree, rooted in something that matters to you."
+  
+  - "Followed by a strong and solid no."
+- "The yes on the other side is like reaching out to the world, a yes of ongoing relationship."
+
+### Importance of Practice in Negotiation
+
+- "Malcolm Gladwell suggests that anyone becomes a genius in negotiation through practice."
+  
+  - "Speed up this process by learning and applying negotiation principles."
+- "Reflecting on past negotiations and learning from them accelerates the acquisition of negotiation skills."
+
+### Challenges in Family Business Negotiation
+
+- "Family business negotiation marries the difficulties of running a business with the emotional dynamics of a family."
+  
+  - "Emotional dynamics such as parental preferences and sibling rivalries can paralyze negotiations."
+- "Dealing with psychological responses, listening, respect, and apology are crucial for addressing family wounds and staying focused on the problem.
+
+---
+---
+
+# Negotiation Fundamentals 
 
 - The quiz challenges learners to define negotiation
   
@@ -265,3 +427,201 @@
 - Familiar everyday and business examples used for explaining the definition and key characteristics
   
   - Understanding the foundational elements of negotiation for ease of understanding the content
+
+# 2.
+
+## Perception and Cognition in Negotiations 
+
+- Perception
+  
+  - Process of receiving, selecting, and interpreting information from the environment
+  - Influenced by the perceiver's state of mind, role, and past communications
+- Perceptual Distortions in Negotiation
+  
+  - Influence how a person assigns meaning to messages and events
+  - Shapes how parties see themselves, the other party, and the negotiation process
+
+### Perceptual Errors and Biases
+
+- Stereotyping
+  
+  - Making assumptions or assigning attributes based on social or demographic categories
+  - Examples: age, gender, nationality, occupation
+- Halo Effect
+  
+  - Tendency to assume that positive attributes in one area of a person's character will be reflected in others
+  - Can lead to biased perceptions in negotiations
+- Selective Perception
+  
+  - The tendency for people to selectively interpret what they see based on their interests, background, experience, and attitudes
+  - Can lead to biased perceptions in negotiations
+
+### Strategies to Mitigate Stereotyping in Negotiations 
+
+- Be mindful of time pressure
+  
+  - Plan negotiations carefully and allocate sufficient time to avoid feeling rushed
+- Manage stress
+  
+  - Practice relaxation techniques and mindfulness exercises to maintain cognitive clarity during negotiations
+- Be aware of your mood
+  
+  - Recognize how your emotions might be influencing your perceptions and actively work to counter negative biases
+- Focus on individual merit
+  
+  - Evaluate each negotiator based on their skills, experience, and proposal details, not on group stereotypes
+
+### Promoting Open Communication
+
+- Foster a dialogue that encourages understanding and respect for individual differences to eliminate stereotyping
+
+### Hallo Effect 
+
+- Knowledge of one attribute influences overall perception
+  
+  - Can be positive or negative
+- Can lead to overpaying, missing better options, and unrealistic expectations
+  
+  - Important to focus on facts and data
+  - Be mindful of biases and strive to recognize them
+  - Gather more information and negotiate on merits
+
+### Selective Perception
+
+- Tendency to interpret information in line with existing beliefs and biases
+  
+  - Can lead to miscommunication and suboptimal deals
+- Strategies to overcome:
+  
+  - Actively listen and seek to understand the other party's perspective
+  - Challenge your own biases and focus on objective data
+  - Practice empathy and involve individuals with different backgrounds
+
+### Projection Bias
+
+- Unconsciously assigning one's own characteristics to others
+  
+  - Examples include assuming others share the same preferences or motivations
+- Ways to avoid projection bias:
+  
+  - Actively listen and acknowledge different priorities
+  - Practice empathy and seek diverse perspectives
+  - Focus on shared interests and mutually beneficial solutions
+### Cognitive Biases in Negotiation 
+
+- Cognitive biases are systematic errors in thinking that can influence judgments and decisions in negotiation.
+  
+  - Stem from unconscious mental shortcuts that help process information quickly but can lead to inaccurate conclusions and suboptimal outcomes.
+- Examples of cognitive biases in negotiation:
+  
+  - Mythical fixed pie belief
+  - Irrational escalation of commitment
+  - Framing
+  - Anchoring
+
+### Mythical Fixed Pie Belief
+
+- Occurs when negotiators mistakenly believe that the total value in a negotiation is fixed and finite like a pie.
+  
+  - Assume any gain for one party must come at the expense of the other, leading to a win-lose mentality.
+- To overcome:
+  
+  - Shift mindset to recognize negotiation as an opportunity to create value for all parties involved.
+  - Focus on shared interests and identify common goals for collaboration.
+  - Practice empathy to understand the other party's needs and concerns.
+
+### Irrational Escalation of Commitment
+
+- Entails continuing a previously selected course of action beyond what rational analysis would recommend.
+  
+  - Can be driven by the reluctance to abandon a course of action due to prior investment.
+- Example:
+  
+  - Continuing to pursue a failing course of action due to prior time, money, effort, or social investment.
+- Impact in negotiations:
+  
+  - Can lead to suboptimal outcomes for both individuals and groups.
+  - May result in reaching a deal that benefits neither party as much as a more objective initial approach could have.
+### Framing in Negotiation 
+
+- Refers to the way information is presented to influence the other party's perception and interpretation
+  
+  - Can be positive or negative, such as presenting the agreement as a gain or a loss
+- Can be from the point of view of loss aversion or by reference point, anchoring to a specific point of reference
+  
+  - Can also be by invoking social expectations or industry standards
+- Positive framing can create a more collaborative atmosphere and promote trust
+  
+  - Tailor framing to the other party's interests and concerns
+  - Combine positive framing with strong negotiation skills like active listening and building rapport
+
+### Anchoring in Negotiation
+
+- Reflects the tendency of people to rely heavily on the initial value as a reference point for all subsequent offers
+  
+  - Can affect negotiation if one comes unprepared, relying more on intuitions than facts
+- To overcome anchoring bias, it's important to reject anchors and set concrete goals in advance
+  
+  - Schedule breaks between negotiating sessions to overcome anchoring set by the other party
+
+### Overconfidence Bias
+
+- Overconfident negotiators overestimate the likelihood of the other party accepting their offers and underestimate negative events
+  
+  - They ignore the other party's needs and concerns and achieve lesser outcomes than realistically confident negotiators
+
+### Winner's Curse
+
+- Describes a situation where the winning party ends up overpaying for an asset, often found in competitive bidding or auction scenarios
+  
+  - Advanced planning helps prevent the Winner's curse from occurring in negotiations
+
+### Endowment Effect
+
+- Describes the tendency to value things we own more highly than those we don't own, even if objectively similar
+  
+  - Can significantly impact negotiations, leading to unrealistic expectations and hindering fairness
+
+### Endowment Effect 
+
+- Endowment effect leads to unrealistic asking prices for owned items
+  
+  - Starting price set above market value
+  - Hesitancy to lower price or make concessions
+- Strategies to counter endowment effect:
+  
+  - Conduct market research to assess fair market value objectively
+  - Consider opportunity cost and emotional attachment
+  - Be flexible and adjust price based on market feedback and negotiations
+
+### Reactive Devaluation
+
+- Process of devaluing other party's concessions
+  
+  - May be based on emotionality or lack of trust
+  - Leads to minimizing the magnitude of concessions made by the disliked other
+- Strategies to minimize reactive devaluation:
+  
+  - Maintain an objective view of the process
+  - Use a third party to mediate or filter concession-making process
+
+### Managing Misperceptions and Cognitive Biases
+
+- Biases typically arise from unconscious awareness and faulty assumptions
+  
+  - Awareness of biases is the first step in managing distortions
+  - Careful discussion of issues and preferences by both negotiators may reduce perceptual bias
+- Intervention of outside parties can reduce biases during mediation
+
+### Summary 
+
+- Perceptual distortions and cognitive biases impact negotiators' behavior and outcomes
+  
+  - Understanding biases is essential for making informed decisions and achieving better results
+- Key perceptual distortions:
+  
+  - Stereotyping, halo effect, selective perception, and projection
+- Key cognitive biases:
+  
+  - Mythical fixed by belief, irrational escalation of commitment, framing, anchoring, overconfidence, winner's curse, endowment effect, and reactive devaluation
+- Recognizing and understanding biases empowers negotiators to make more informed decisions and improve negotiation skills and strategies
