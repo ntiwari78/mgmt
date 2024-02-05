@@ -101,7 +101,7 @@
   - Consensus
   - Process management issues
   - Fluctuating matter of each party's best alternative to a negotiated agreement (BATNA)
-## Interdependence
+## 2.1 Interdependence
 
 ### Interdependence in Negotiation 
 
@@ -155,7 +155,7 @@
   
   - The characteristic of interdependence in negotiation will be further discussed in the upcoming sessions
 
-## Give and Take Process
+## 2.2 Give and Take Process
 
 ### Give and Take Process in Negotiations
 
@@ -192,7 +192,7 @@
 - Focusing on interests in negotiations can lead to a mutually acceptable solution.
   
   - A focus on interests can lead to a win-win situation for both parties.
-## Mutual Adjustment
+## 2.3 Mutual Adjustment
 
 ### Mutual Adjustment in Negotiation 
 
