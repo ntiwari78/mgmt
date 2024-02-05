@@ -87,3 +87,70 @@
 - Business to business negotiation
   
   - Example: Amazon negotiating with Whole Foods to expand into the grocery market
+
+# 2. Elements of Negotiations
+### Basic Characteristics of Negotiation 
+
+- Involves two or more parties (individuals, groups, or organizations)  
+  - Parties can be co-workers, buyers and sellers, business owners, etc.
+- Can also involve multiple parties in multi-party negotiations  
+  - Parties can engage in trade-offs and face challenges in finding common ground
+- Multi-party negotiations present difficult challenges  
+  - Coalition formation
+  - Majority rule
+  - Consensus
+  - Process management issues
+  - Fluctuating matter of each party's best alternative to a negotiated agreement (BATNA)
+## Interdependence
+
+### Interdependence in Negotiation 
+
+- Interdependence is a key characteristic of negotiation where parties need each other to achieve their preferred objectives or outcomes.
+  
+  - Coordination is necessary to achieve individual objectives, or working together leads to better outcomes.
+- Example: Two companies, A and B, negotiate a supply contract where A needs unique materials from B, and B relies on A's large customer base for sales.
+  
+  - Both companies are interdependent and need to work together to find an agreement that ensures sufficient supply for A and fair pricing for B.
+
+### Types of Relationships in Negotiation
+
+- Relationships between parties in negotiation can be independent, dependent, or interdependent.
+  
+  - Dependence: One party relies heavily on the other, but the other party's success isn't significantly impacted.
+    
+    - Example: Small business relying on a major retailer for sales.
+  - Independence: Each party's success depends solely on their own actions, without the help of others.
+    
+    - Example: Two companies selling different products to different audiences.
+
+### Degrees of Interdependence
+
+- The degree of interdependence can vary based on the depth and duration of the relationship.
+  
+  - Shallow and short-term interdependency: Transactions between strangers, e.g., purchase of a car.
+  - Deeper interdependency: Repeat transactions between parties, creating a long-term relationship.
+  - Very deep interdependency: Long-term relationship of equal standing, e.g., a business partnership.
+
+### Competitive and Mutual Gain Situations
+
+- Competitive situation: Goals are interconnected, leading to a zero-sum or distributive bargaining.
+  
+  - One person's goal achievement blocks the other party's goal attainment.
+- Mutual gain situation: Goals are linked so that one person's goal achievement helps others to achieve their goals, creating a non-zero-sum or integrated situation.
+  
+  - Example: Sharing an orange between two sisters.
+  - Win-win or integrative situations are better than zero-sum or distributive situations.
+
+### Evaluation of Influence 
+
+- The desirability of alternatives to working together heavily influences the evaluation of influence
+  
+  - Agreement in negotiation depends on the attractiveness of the best available alternative, known as BATNA
+  - It's important to identify one's own BATNA and determine the other party's BATNA during negotiations
+- The upcoming sessions will provide more detailed information about BATNA
+
+### Interdependence of Negotiation
+
+- Negotiation involves interdependence, where parties need to work together for better outcomes
+  
+  - The characteristic of interdependence in negotiation will be further discussed in the upcoming sessions
