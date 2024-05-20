@@ -149,3 +149,18 @@ There are two types of necessary condition tests: **negative and positive**. The
 - In order for X to be necessary for Y, it must be true that whenever X is absent, Y is absent. This generalization is not true if there is one case of Y without X. Adding future cases cannot change the fact that there is still at least this one case of Y without X, and this one case will still be enough to refute the claim that whenever X is absent, Y is absent. This shows that the negative necessary condition test is indefeasible and deductive.
 - **X is not a necessary condition of Y if there is any case in the current data where X is absent and Y is present.**
 
+### What are the four conditions that need to be met in the positive necessary condition test?
+In the positive necessary condition test, there are four conditions that need to be met before we can reasonably conclude that something is a necessary condition. These conditions are:
+
+- **Absence and presence:** We have not found any case where the candidate condition (let's call it X) is absent and the outcome (let's call it Y) is present. This means that we have not found any examples where X is not there, but Y still happens.
+
+- **Testing variety:** We have tested a wide variety of cases, including cases where X is absent and cases where Y is present. This is important because we need to gather enough data to make reliable conclusions. We can't just rely on a few examples.
+
+- **Competing hypotheses:** If there are any other features (let's call them Z) that are always present when Y is present, we have tested cases where Z is present but X is absent. This helps us compare different hypotheses and determine which candidate is truly necessary.
+
+- **Testing enough cases:** We have tested enough cases of various kinds that are likely to include a case where X is absent and Y is present, if such a case exists. This requires background knowledge and understanding of what factors might be causally relevant.
+
+Remember, all four conditions need to be met before we can reasonably conclude that something is a necessary condition. Inductive reasoning is about gathering evidence and considering multiple factors to make informed conclusions.
+
+- **This positive necessary condition test does not pretend to be valid and is defeasible by future data, so it is inductive rather than deductive.**
+
