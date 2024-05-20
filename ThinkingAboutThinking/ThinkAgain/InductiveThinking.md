@@ -164,3 +164,12 @@ Remember, all four conditions need to be met before we can reasonably conclude t
 
 - **This positive necessary condition test does not pretend to be valid and is defeasible by future data, so it is inductive rather than deductive.**
 
+### What is a complex condition and how does it differ from a simple condition?
+
+- A complex condition is a combination of two or more candidates, features, or conditions. It can be formed through negation (not having something), disjunction (having either one thing or another), or conjunction (having a combination of two or more things).
+
+- On the other hand, a simple condition, also known as an atomic condition, refers to a single candidate, feature, or condition. It is not a combination or a result of any logical operation.
+
+- The main difference between complex and simple conditions lies in their composition. Complex conditions involve multiple elements, while simple conditions consist of a single element. Understanding complex conditions is important because they allow us to analyze the relationships and interactions between different candidates or features.
+
+
