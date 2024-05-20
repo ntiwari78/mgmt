@@ -81,3 +81,21 @@ The main components of an argument from analogy are as follows:
 - **Conclusion:** The conclusion is the inference or prediction we make based on the analogies and similarities. It is the main point or claim that the argument is trying to establish.
 - **Strength:** The strength of the argument from analogy depends on various factors. These include the number and quality of the analogies, the relevance and significance of the similarities, and the absence of significant dis-analogies.
 By considering these components and evaluating the strength of the argument, we can assess the validity and reliability of the conclusion drawn from the analogy.
+## 3. Casual Reasoning
+we reason and make judgments about causes and effects in everyday life.
+
+When something happens, like your computer screen going black or your coffee tasting bad, we naturally want to know what caused it. We also see this in courtrooms, where someone is found guilty of murder based on proving that their actions caused someone's death.
+
+But here's the thing: we can't always be certain about what causes what. Life is complex, and there are often many factors at play. That's where inductive arguments come in. They help us support our judgments about causes even when we can't be absolutely certain.
+
+To understand causation, we need to look at individual events and the general rules that connect them. For example, if I push a button on my phone, it turns on. If I push another button, it turns off. These specific events show a general rule: pushing the bottom button turns it on, and pushing the top button turns it off.
+
+In causal cases, sufficient conditions and necessary conditions have some important differences. Let me explain:
+
+- **Sufficient Conditions:** A sufficient condition means that if a particular event or condition (let's call it F) happens, then another event or condition (let's call it G) will also happen. In other words, F is enough to guarantee G. However, it's important to note that F alone may not be the only thing that can lead to G. There could be other factors involved as well.
+
+- **Necessary Conditions:** A necessary condition means that if a particular event or condition (F) does not happen, then another event or condition (G) will not happen either. In other words, F is required for G to occur. Without F, G cannot happen. However, having F does not guarantee that G will happen, as there may be other factors involved.
+
+To understand this better, let's take an example. Suppose we have a matchstick. Striking the matchstick is a sufficient condition for lighting it. Whenever you strike the matchstick, it lights up. However, striking the matchstick on a rough surface is a necessary condition for lighting it. If you don't strike it on a rough surface, it won't light up. So, striking the matchstick is sufficient, but striking it on a rough surface is necessary for it to light up.
+
+In summary, sufficient conditions indicate that if one thing happens, another thing will also happen. Necessary conditions indicate that if one thing doesn't happen, another thing won't happen either. Both types of conditions play a role in understanding causal relationships.
