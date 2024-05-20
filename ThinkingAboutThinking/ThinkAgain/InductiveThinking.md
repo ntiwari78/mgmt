@@ -99,3 +99,15 @@ In causal cases, sufficient conditions and necessary conditions have some import
 To understand this better, let's take an example. Suppose we have a matchstick. Striking the matchstick is a sufficient condition for lighting it. Whenever you strike the matchstick, it lights up. However, striking the matchstick on a rough surface is a necessary condition for lighting it. If you don't strike it on a rough surface, it won't light up. So, striking the matchstick is sufficient, but striking it on a rough surface is necessary for it to light up.
 
 In summary, sufficient conditions indicate that if one thing happens, another thing will also happen. Necessary conditions indicate that if one thing doesn't happen, another thing won't happen either. Both types of conditions play a role in understanding causal relationships.
+### Difference between sufficient and necessary conditions
+Understanding the difference between a sufficient condition and a necessary condition is important in reasoning.
+
+- A sufficient condition is something that, if it happens or is present, guarantees that something else will happen. In other words, if the sufficient condition is true, then the result or outcome is guaranteed. However, it's important to note that a sufficient condition doesn't have to be the only way for the result to occur. There may be other factors or conditions that can also lead to the same result.
+
+- On the other hand, a necessary condition is something that must happen or be present for a particular result to occur. Without the necessary condition, the result cannot happen. It is an essential requirement. If the necessary condition is not met, then the result cannot be achieved.
+
+To summarize:
+- Sufficient condition: If it happens, the result is guaranteed, but it may not be the only way for the result to occur.
+- Necessary condition: It must happen for the result to occur. Without it, the result cannot happen.
+- Understanding the distinction between these two types of conditions is crucial for reasoning and making logical conclusions.
+
