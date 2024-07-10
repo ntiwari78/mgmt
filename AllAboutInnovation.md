@@ -10,7 +10,7 @@ Innovation has many definitions covering different aspects such as a way of thin
 - Change that creates a new dimension of performance
  
 
-You can read 30+ definitions of innovation at https://www.freshconsulting.com/what-is-innovation/
+- You can read 30+ definitions of innovation at [https://www.freshconsulting.com/what-is-innovation/](https://www.freshconsulting.com/insights/blog/what-is-innovation/)
 
  
 
