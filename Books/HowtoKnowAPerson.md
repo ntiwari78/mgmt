@@ -119,3 +119,7 @@
 | 🔁 Reciprocity  | Give and invite authentic self-expression    |
 | 🌱 Moral Growth | Recognition is daily, relational virtue      |
 
+
+| **MindMap of How To Know A Person** |
+|-------------------------------------|
+| <img width="1704" height="4096" alt="image" src="https://github.com/user-attachments/assets/c04a9bfb-3b73-4bf7-9d06-c4a78558c328" /> |
