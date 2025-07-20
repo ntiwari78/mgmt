@@ -170,3 +170,8 @@
 | 🗣️ Style     | Be expressive, not performative |
 | 🤝 Connection | Banter builds trust and warmth  |
 
+
+| **MindMap of The Art Of Witty Banter** |
+|----------------------------------------|
+| <img width="1662" height="4096" alt="image" src="https://github.com/user-attachments/assets/4f3906be-4025-4db4-932e-2dffae1d9c4a" /> |
+
