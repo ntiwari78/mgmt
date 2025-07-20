@@ -140,3 +140,6 @@ A Black Swan event has three key traits:
 * Recognize **knowledge limits**.
 * Avoid overconfidence in fast-changing systems.
 
+| **MindMap of The Black Swan** |
+|-------------------------------|
+| <img width="1672" height="4096" alt="image" src="https://github.com/user-attachments/assets/49dce8ba-cb03-4789-a60c-b2b6758ef40c" /> |
