@@ -112,3 +112,8 @@
 | 🤝 Cooperation | Form alliances to share rewards              |
 | ⚖️ Fairness    | Balance contributions in group outcomes      |
 
+
+| **MindMap** |
+|-------------|
+| <img width="1744" height="4096" alt="image" src="https://github.com/user-attachments/assets/cfdf6032-0ec0-40da-a6b0-e8ef8ce87a54" /> |
+
