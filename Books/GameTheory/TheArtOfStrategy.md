@@ -140,3 +140,7 @@
 
 > *Game theory is a mindset that sharpens decision-making in an interconnected world.*
 
+
+| **MindMap of The Art of Strategy** |
+|------------------------------------|
+| <img width="1618" height="4096" alt="image" src="https://github.com/user-attachments/assets/2d6c63e2-a688-41ee-8f76-f0377dbc9b39" /> |
