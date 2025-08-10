@@ -1,6 +1,13 @@
 
 # **Briefing Document: The Socratic Method**
 
+- https://www.youtube.com/watch?v=vNDYUlxNIAA
+
+| **Overview** |
+|--------------|
+| ![SocraticMethod](https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/SocraticMethod.png) |
+
+
 ---
 
 ## **1. Origins and Core Idea**
