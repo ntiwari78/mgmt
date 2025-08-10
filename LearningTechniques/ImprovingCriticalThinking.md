@@ -602,3 +602,74 @@ For questioning to be effective, students must feel safe to take **intellectual 
 * [Climate Change – Wikipedia](https://en.wikipedia.org/wiki/Climate_change)
 * [Empathy – Wikipedia](https://en.wikipedia.org/wiki/Empathy)
 
+
+
+
+# **Study Guide: Critical Thinking and Questioning**
+
+*Based on Brian Oshiro’s TEDxXiguan talk: ["Encourage Critical Thinking with 3 Questions"](https://www.youtube.com/watch?v=uq7AqXYt_1o)*
+
+---
+
+## **Quiz – Short Answer Questions**
+
+Answer each in **2–3 sentences**.
+
+1. **According to the speaker, what common claim do Chinese school leaders make about their students’ learning styles, and what are they seeking to address?**
+   Chinese school leaders often say their students are **[rote learners](https://en.wikipedia.org/wiki/Rote_learning)** who struggle to apply knowledge outside the classroom. They want to adopt new teaching methods that promote creative thinking and real-world application.
+
+2. **What is the primary difference in how questions A ("Do you know what climate change is?") and B ("What are three causes of climate change?") assess student learning?**
+   Question A checks for basic recognition, while Question B measures factual recall. Neither pushes students into **higher-order thinking**—which requires analysis, synthesis, and evaluation.
+
+3. **Why is it important to ask "higher-order" questions in the classroom, according to the speaker?**
+   Higher-order questions encourage students to grapple with open-ended problems that lack a single correct answer, fostering **critical thinking** and preparing them for the complexities of real-world situations.
+
+4. **The speaker notes a significant imbalance in the types of questions teachers ask. What percentage of questions observed were of lower-order types?**
+   Around **90%** of questions observed were lower-order recall questions.
+
+5. **Why does the speaker suggest exposing students to "tougher questions earlier when the stakes are not as high"?**
+   Early exposure to challenging questions builds **grit** and perseverance. It’s safer to practise problem-solving in low-risk classroom settings than to face uncertainty for the first time in high-stakes real-life situations.
+
+6. **What is the "dead wrong" assumption that schools often make about students' ability to connect dots between classroom knowledge and real-world application?**
+   Schools often assume students can make these connections independently. The speaker argues they must actively teach **what**, **why**, and **how** to bridge this gap.
+
+7. **How does transforming "What are three causes of climate change?" to "Explain what the three main causes of climate change are" make the question more productive?**
+   The revised question requires explanation, forcing students to paraphrase and articulate understanding—taking a **risk** instead of giving a safe, memorised answer.
+
+8. **Provide two examples of "Why" questions that connect abstract information to a student's personal life.**
+
+   * “Why is climate change important for someone who lives here in Guangzhou?”
+   * “Why should I as a student be concerned about this now and not later?”
+
+9. **Explain how asking "How do you know?" encourages students to go beyond a simple answer.**
+   It requires students to **justify their reasoning** with evidence, preventing superficial responses and promoting evidence-based thinking.
+
+10. **What is the overarching message for parents, teachers, and lifelong learners regarding the importance of asking better questions?**
+    Asking better questions extends learning beyond exams, strengthens understanding, and encourages empathy. Fostering **critical thinking** is a **collective responsibility** across all roles.
+
+---
+
+## **Essay Questions**
+
+1. **Critique traditional questioning methods** – Compare **lower-order** and **higher-order** questions using classroom examples from the talk.
+2. **Analyse the “What–Why–How” framework** – Show how each stage builds on the previous to develop critical thinking, with a sample teaching sequence.
+3. **Explore collective responsibility** – Describe the roles of **students, parents, teachers, and schools** in promoting inquiry and creativity.
+4. **Evaluate “real life is a bunch of squiggles”** – Connect this metaphor to the need for uncertainty and risk-taking in education.
+5. **Discuss “Why not?” as an educational challenge** – Consider its implications for future teaching, learning, and societal problem-solving.
+
+---
+
+## **Glossary of Key Terms**
+
+* **[Rote learners](https://en.wikipedia.org/wiki/Rote_learning)** – Memorisation without understanding or application.
+* **Lower-order questions** – Recall-focused, e.g., “What are three causes of climate change?”
+* **Higher-order questions** – Require **analysis**, **evaluation**, and **synthesis**, e.g., “Why do some claim climate change is the biggest crisis of our generation?”
+* **[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)** – Analysing and evaluating information to form judgements.
+* **What questions** – Foundational knowledge checks.
+* **Why questions** – Connect knowledge to relevance and reasoning.
+* **How questions** – Apply, solve, and defend ideas.
+* **[Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)** – Preparing students to face incomplete or ambiguous situations.
+* **[Grit](https://en.wikipedia.org/wiki/Grit_%28personality_trait%29)** – Persistence toward long-term goals.
+* **Collective responsibility** – Shared duty among all stakeholders to nurture critical thinking.
+* **Risk in learning** – Valuing the attempt and exploration, not just correctness.
+
