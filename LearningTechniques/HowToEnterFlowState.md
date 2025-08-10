@@ -171,3 +171,91 @@ It is accessible to anyone by:
 * **Moment-to-Moment Feedback** — Continuous performance cues that sustain engagement.
 
 
+
+
+# The Impact of Overstimulation on Attention and Creativity
+
+**Source:** [Chris Bailey – "How to Get Your Brain to Focus" (TEDxManchester)](https://www.ted.com/talks/chris_bailey_how_to_get_your_brain_to_focus)
+
+This briefing explores how **overstimulation** in modern life erodes attention spans, creativity, and well-being. Chris Bailey argues that distraction is not the root problem—it is a symptom of overstimulated brains that constantly crave novelty.
+
+---
+
+## 1. The Pervasive Nature of Digital Overstimulation
+
+Bailey describes a day filled with **screen time**—from waking up to a phone, using an iPad while cooking, to working on multiple monitors. He humorously refers to his smartwatch as “the little devil on my wrist,” constantly demanding attention.
+
+The **smartphone** is identified as the main culprit, capable of consuming *hours every single day*. This leads to **hyperstimulated** brains, constantly seeking the next hit of novelty.
+
+---
+
+## 2. The “Smartphone Experiment” and Its Effects
+
+Bailey limited his phone use to **30 minutes per day** for a month. After about a week, he noticed:
+
+* **Increased Attention Span** – Focus came more easily.
+* **More Ideas** – Mental space allowed for creative thought.
+* **More Future Planning** – He thought more about long-term goals.
+
+This showed a **direct correlation** between reduced stimulation and improved cognitive performance.
+
+---
+
+## 3. Root Cause: Overstimulation & Novelty Bias
+
+Bailey challenges the idea that we are simply *distracted*. Instead, we are **overstimulated**, driven by **novelty bias**—our brain’s tendency to release [dopamine](https://en.wikipedia.org/wiki/Dopamine) when encountering new information, social media updates, or emails.
+
+Like food or intimacy, novelty provides a **pleasure reward**, making us actively seek out distraction.
+
+---
+
+## 4. The Power of Boredom and “Scatter Focus”
+
+Bailey embraced **intentional boredom** for an hour a day—reading iTunes terms, waiting on hold, etc. After an adjustment period, he experienced:
+
+* Expanded attention span
+* Surge in creative ideas and future plans
+
+**Scatter focus** is the deliberate act of letting the mind wander. Research shows that when unfocused, our minds wander to:
+
+* **Past** – 12% (recalling ideas)
+* **Present** – 28% (problem-solving)
+* **Future** – 48% (planning and strategizing) → *mind’s prospective bias*
+
+Examples of scatter focus activities: knitting, long baths, walking without a phone.
+
+---
+
+## 5. Two Fundamental Shifts for Better Attention
+
+1. **Embrace Space, Not Hustle** – Like space between cars allows traffic flow, mental space fosters creativity. Overloading the mind prevents deep thinking.
+2. **See Distraction as a Symptom** – The real problem is **overstimulation**, not distraction itself.
+
+---
+
+## 6. Practical Challenges for a Less Stimulated Mind
+
+Bailey’s two-week challenge includes:
+
+* **Device Management** – Use screen-time trackers and limits
+* **Disconnection Rituals** – Daily (8 pm–8 am internet off) and weekly ("technology Sabbath")
+* **Rediscover Boredom** – Small periods daily to let the mind wander
+* **Scatter Your Attention** – Engage in simple, low-focus activities
+
+---
+
+## Conclusion
+
+Bailey’s key message: **“The state of our attention determines the state of our lives.”**
+Reducing overstimulation—not just fighting distraction—leads to more focus, ideas, creativity, and ultimately, a better quality of life.
+
+---
+
+## References
+
+* [Chris Bailey – TEDxManchester Talk](https://www.ted.com/talks/chris_bailey_how_to_get_your_brain_to_focus)
+* [Dopamine – Wikipedia](https://en.wikipedia.org/wiki/Dopamine)
+* [Novelty Bias – Psychology Today](https://www.psychologytoday.com/us/basics/novelty)
+* [Mind Wandering – Wikipedia](https://en.wikipedia.org/wiki/Mind-wandering)
+* [Boredom – Wikipedia](https://en.wikipedia.org/wiki/Boredom)
+
