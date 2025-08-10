@@ -314,3 +314,80 @@ Use deep questions, vulnerability, and conversational matching daily to build ri
 * [Vulnerability – Wikipedia](https://en.wikipedia.org/wiki/Vulnerability)
 * [Active Surveillance in Cancer Treatment – NCI](https://www.cancer.gov/about-cancer/treatment/types/active-surveillance)
 
+
+
+# Study Questions & Answers
+
+**Charles Duhigg – “The Science Behind Dramatically Better Conversations”**
+
+---
+
+### **1. What is the fundamental insight that modern communication research has revealed about conversations?**
+
+Modern communication research, supported by neural imaging and large-scale data collection, shows that a single discussion often contains multiple, distinct **conversation types**:
+
+* **Practical** – about facts and solutions
+* **Emotional** – about feelings and empathy
+* **Social** – about identity and relationships
+
+The key insight, known as the **[matching principle](https://en.wikipedia.org/wiki/Conversation)**, is that effective communication requires recognising the type of conversation taking place and aligning accordingly. If participants engage in different types at the same time, true understanding becomes difficult.
+
+---
+
+### **2. How did the "matching principle" manifest in the speaker’s personal experience with his wife?**
+
+When the speaker came home and complained about his day, he was having an **emotional conversation**—seeking empathy. His wife responded with **practical advice**, trying to solve the problem. This mismatch left him feeling unsupported and her feeling unappreciated, showing that both were engaged in valid conversations but of different types, leading to disconnection.
+
+---
+
+### **3. What is a "deep question" and why is it crucial for effective communication?**
+
+A **deep question** invites people to share **values, beliefs, or experiences**, not just factual details.
+Examples:
+
+* “What do you love about your job?” instead of “Where do you work?”
+* “What was high school like?” instead of “Where did you go to high school?”
+
+Deep questions are powerful because they encourage **vulnerability** and **reciprocal vulnerability**, key elements in building authentic human connection.
+
+---
+
+### **4. How did Dr. Ehdaie, the prostate cancer surgeon, transform his patient consultations using deep questions?**
+
+Initially, Dr. Ehdaie assumed his patients wanted **practical medical advice**, but many were driven by **emotional and social concerns**. After asking, *“What does this cancer diagnosis mean to you?”*, patients opened up about fears for family, career, and identity. Matching their emotional needs with empathy first, before offering medical recommendations, dramatically increased acceptance of **active surveillance** over unnecessary surgery.
+
+---
+
+### **5. What are the three "buckets" or types of conversations identified by researchers?**
+
+1. **Practical Conversations** – Facts, problems, solutions
+2. **Emotional Conversations** – Feelings, empathy, shared experiences
+3. **Social Conversations** – Identity, relationships, social roles
+
+Recognising these types is essential for applying the **matching principle** effectively.
+
+---
+
+### **6. Describe the "crying experiment" and its surprising outcomes.**
+
+In the **crying experiment**, a person asks a stranger, *“When was the last time you cried in front of someone?”*, then shares their own answer.
+Despite initial discomfort, participants consistently report:
+
+* Feeling deeply connected
+* Greater mutual care and understanding
+* High-quality, memorable conversations
+
+It works because it’s a **deep question** that quickly fosters vulnerability and emotional matching.
+
+---
+
+### **7. Why is vulnerability, especially reciprocal vulnerability, so important in building connections?**
+
+Vulnerability reveals our **true selves** and signals trust. When matched with **reciprocal vulnerability**, it creates empathy, shared humanity, and strong bonds. This openness helps move beyond superficial exchanges to authentic relationships—illustrated powerfully by the *crying experiment*.
+
+---
+
+### **8. How does understanding these communication principles help address contemporary issues like polarisation and division?**
+
+In a polarised world, we often “forget how to have conversations.” Using the **matching principle** and **deep questions** allows us to connect over shared human experiences, not just differences. These skills encourage empathy, reduce defensiveness, and enable constructive dialogue across divides, helping rebuild trust and unity.
+
