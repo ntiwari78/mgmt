@@ -4,6 +4,10 @@
 
 - https://www.youtube.com/watch?v=0rIjFCNay2Q
 
+| **Overview** |
+|--------------|
+| ![FlowState]() |
+
 ## **1. Definition & Core Characteristics**
 
 **Flow** is described as *“a unique mental state of effortless engagement”* and is classified by psychologists as an **[altered state of consciousness](https://en.wikipedia.org/wiki/Altered_state_of_consciousness)**. It differs from mere concentration by combining deep focus with enjoyment and a loss of self-consciousness.
