@@ -4,6 +4,12 @@
 
 This briefing reviews the core ideas from *[6 Levels of Thinking Every Student MUST Master](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)*, a framework based on **Bloom's Revised Taxonomy**. It introduces a counter-intuitive, top-down approach to achieving higher-order thinking results.
 
+
+| Overview |
+|----------|
+| ![sixLevelOfLearning](https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/SixLevelOfLearning.png) |
+
+
 ---
 
 ## Core Argument: The Importance of Deliberate Thinking Levels
