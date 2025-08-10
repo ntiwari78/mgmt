@@ -4,6 +4,11 @@
 
 This briefing synthesises insights from **Barbara Oakley’s** TEDxOaklandUniversity talk, *[Learning How to Learn](https://www.ted.com/talks/barbara_oakley_learning_how_to_learn)*. It presents practical strategies and conceptual frameworks for mastering the skill of learning—showing that even subjects once considered inaccessible can be approached effectively.
 
+
+| Overview |
+|----------|
+| ![LearningHowToLearn](https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/LearningHowToLearn.png) |
+
 ---
 
 ## I. The Dual Modes of Learning: Focus and Diffuse Thinking
