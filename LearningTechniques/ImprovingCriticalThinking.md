@@ -498,3 +498,107 @@ If adopted widely, such a method could:
 5. [Active learning — Wikipedia](https://en.wikipedia.org/wiki/Active_learning)
 
 
+---
+---
+
+
+
+# Fostering Critical Thinking and Creativity through Deeper Questioning
+
+**Source:** [Brian Oshiro – “Encourage Critical Thinking with 3 Questions” | TEDxXiguan](https://www.youtube.com/watch?v=uq7AqXYt_1o)
+
+Brian Oshiro’s talk explores how educators, parents, and lifelong learners can move beyond rote learning by using a **structured questioning approach**—“What, Why, How”—to stimulate deeper thinking, creativity, and real-world application.
+
+---
+
+## 1. The Challenge: Rote Learning and Lack of Application
+
+In many education systems—particularly in China but applicable globally—students are often **rote learners**, excelling at memorisation without opportunities to apply knowledge in real contexts.
+
+* **Western contrast:** Smaller classes, group work, and exploration of personal interests
+* **Chinese challenge:** Classrooms seeking innovative teaching methods to bridge the gap between knowledge acquisition and real-world use
+
+The core issue: Knowledge without **application** leaves students unprepared for complex, real-life problems.
+
+---
+
+## 2. The Power of Questions: Beyond Lower-Order Recall
+
+Oshiro emphasises that **questions are the engine of engagement**—but not all questions are equally valuable.
+
+* **Lower-Order Questions (Type B)**
+
+  * Focus: Factual recall
+  * Example: “What are three causes of [climate change](https://en.wikipedia.org/wiki/Climate_change)?”
+  * Purpose: Assess basic knowledge
+  * Limitation: Over 90% of classroom questions fall into this category, limiting opportunities for critical thinking
+
+* **Higher-Order Questions (Type C)**
+
+  * Focus: Analysis, reasoning, application
+  * Example: “Why do some claim that climate change is the biggest crisis facing this generation?”
+  * Benefit: Encourages grappling with questions without single correct answers—mirroring real-world problem-solving
+
+---
+
+## 3. The “What, Why, How” Framework for Deeper Questioning
+
+Oshiro proposes a **progression** for moving from recall to critical analysis:
+
+1. **What** – Establishes foundational understanding
+
+   * Avoid stopping here—rephrase to encourage explanation.
+   * Example: “Explain what the three main causes of climate change are.”
+
+2. **Why** – Connects knowledge to personal relevance
+
+   * Example prompts:
+
+     * “Why is climate change important for someone living in Guangzhou?”
+     * “Why should students be concerned about this now?”
+   * Outcome: Helps students value the information
+
+3. **How** – Encourages application and synthesis
+
+   * Types of “How” questions:
+
+     * **How do you know?** – Evidence-based reasoning
+     * **How might your perspective differ from others’?** – Builds [empathy](https://en.wikipedia.org/wiki/Empathy)
+     * **How can you solve this problem?** – Synthesises knowledge into actionable solutions
+
+---
+
+## 4. Beyond the Classroom: A Collective Responsibility
+
+Critical thinking development is a **shared duty**:
+
+* **Parents:** Ask children to explain concepts to reinforce learning
+* **Students:** Extend learning beyond exams to prepare for uncertainty
+* **Teachers:** Integrate higher-order questions and assess activities for their thinking potential
+* **Lifelong learners:** Use questioning to challenge personal assumptions
+
+Oshiro also advocates **exposing students to uncertainty** early, when stakes are low, to build resilience and **grit**.
+
+---
+
+## 5. Cultivating a Culture of Risk and Inquiry
+
+For questioning to be effective, students must feel safe to take **intellectual risks**.
+
+* Problem: Schools often reward correct answers and penalise wrong ones
+* Risk: This discourages curiosity and adaptability, making education less relevant for 21st-century challenges
+* Solution: Reward effort, exploration, and diverse thinking—modelled by teachers asking “more hows and more whys” themselves
+
+**Closing challenge:** The ultimate question educators should ask—**“Why not?”**—in adopting a questioning culture.
+
+---
+
+## References
+
+* [Brian Oshiro – TEDxXiguan Talk](https://www.youtube.com/watch?v=uq7AqXYt_1o)
+* [Critical Thinking – Wikipedia](https://en.wikipedia.org/wiki/Critical_thinking)
+* [Higher-Order Thinking – Wikipedia](https://en.wikipedia.org/wiki/Higher-order_thinking)
+* [Bloom’s Taxonomy – Wikipedia](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
+* [Climate Change – Wikipedia](https://en.wikipedia.org/wiki/Climate_change)
+* [Empathy – Wikipedia](https://en.wikipedia.org/wiki/Empathy)
+
