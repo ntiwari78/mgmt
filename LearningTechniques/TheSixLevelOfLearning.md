@@ -8,7 +8,7 @@ This briefing reviews the core ideas from *[6 Levels of Thinking Every Student M
 | Overview |
 |----------|
 | ![sixLevelOfLearning](https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/SixLevelOfLearning.png) |
-| https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/SixLevelOfLearningComplete.png |
+| ![sixLevelComplete](https://github.com/ntiwari78/mgmt/blob/master/LearningTechniques/images/SixLevelOfLearningComplete.png) |
 
 
 ---
