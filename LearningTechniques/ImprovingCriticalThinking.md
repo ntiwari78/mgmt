@@ -231,3 +231,86 @@
 The **[Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)** is a time-tested approach for **developing critical thinking**, built on deep inquiry, assumption-challenging, and guided discovery.
 Its adaptability — from medicine to law — ensures it remains a powerful teaching tool for any discipline that values rigorous reasoning.
 
+Here’s your Q\&A on the Socratic Method reformatted into structured Markdown with linked key terms for further reading:
+
+
+## **1. What is the Socratic Method and how does it work?**
+
+The **[Socratic Method](https://en.wikipedia.org/wiki/Socratic_method)** is a **question-oriented** approach to inquiry and learning developed by **[Socrates](https://en.wikipedia.org/wiki/Socrates)**.
+
+* Rather than giving lectures or direct answers, Socrates engaged in dialogue, responding to answers with further questions.
+* Goals:
+
+  * Probe logic.
+  * Reveal flaws in reasoning.
+  * Challenge **unexamined assumptions**.
+  * Eliminate contradictory or circular logic.
+* Outcome: Not always definitive answers, but a clearer and more robust understanding of a topic.
+
+---
+
+## **2. Why was Socrates on trial and sentenced to death?**
+
+Socrates was accused of **corrupting the youth** and **impiety** (refusing to recognise the gods of Athens).
+
+* His questioning style was seen as **subversive** because it challenged traditional beliefs.
+* His criticism of **Athenian democracy** and influence over pupils—some accused of treason—were distorted in public opinion.
+* These perceptions led to his conviction and execution in 399 BCE.
+
+---
+
+## **3. How did Socrates describe his role?**
+
+Socrates compared himself to a **midwife**:
+
+* His role was to help others “**give birth to their ideas**” through guided questioning.
+* This metaphor emphasises facilitation over instruction, enabling self-discovery rather than imposing answers.
+
+---
+
+## **4. What is the core aim when applied to concepts like “justice”?**
+
+* To **challenge confident assertions** and reveal complexities.
+* Example: In the dialogue with *Euthydemus*, Socrates showed how definitions of justice can break down under scrutiny.
+* Main goal: Clarify the **questions** involved and eliminate **illogical reasoning**, not simply deliver a final definition.
+
+---
+
+## **5. In what diverse fields has it been adapted?**
+
+The Socratic Method is widely adaptable:
+
+* **Clinical Medicine** (Renaissance) — diagnosing through questioning.
+* **Sciences** — astronomy, botany, mathematics.
+* **Theology** — post-Reformation debates on faith.
+* **[American Legal Education](https://en.wikipedia.org/wiki/Socratic_method#In_law)** — professors use hypotheticals to test reasoning.
+* **U.S. Supreme Court** — explores unintended impacts of laws through questioning.
+
+---
+
+## **6. Qualities of an Effective Socratic Educator**
+
+* **Subject expertise**.
+* **Modesty and curiosity**.
+* **Affirmation of contributions** — avoid intimidation or intellectual bullying.
+* While Socrates himself was not always subtle, the ideal facilitator remains neutral and respectful.
+
+---
+
+## **7. Does it aim to provide definitive answers?**
+
+Not necessarily.
+
+* Sometimes it can produce **conclusive results** (e.g., in medicine).
+* Often the goal is **clarification** and **refinement of reasoning**, not a final verdict.
+
+---
+
+## **8. How does it challenge assumptions and biases?**
+
+* Draws out **hidden beliefs** through targeted questioning.
+* Probes for justifications.
+* Reveals inconsistencies and **biases**.
+* Encourages a more rigorous, self-aware understanding of one’s own views.
+
+
