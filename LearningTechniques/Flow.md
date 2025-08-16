@@ -1,4 +1,5 @@
-
+# Reference
+- https://www.mbaknol.com/modern-management-concepts/theory-of-flow/
 
 # **The Concept of Flow and Its Contribution to a Meaningful Life**
 
@@ -53,7 +54,8 @@ When present, these elements make the activity **intrinsically rewarding**.
 
 Flow occurs when both **challenges** and **skills** are **above average**, forming the “**flow channel**.”
 
-![Flow Model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Challenge_vs_skill.svg/500px-Challenge_vs_skill.svg.png)
+<img width="673" height="421" alt="image" src="https://github.com/user-attachments/assets/45bd8296-35e5-4e8c-bfe0-990cc2452265" />
+
 
 *(Diagram source: Wikipedia)*
 
