@@ -2,9 +2,6 @@
 
 # How to Read a Paper — Summary
 
-**Author:** [S. Keshav](https://cs.uwaterloo.ca/~keshav/)
-**Published in:** *ACM SIGCOMM Computer Communication Review*, Vol. 37, No. 3, July 2007
-
 ---
 
 ## Introduction
