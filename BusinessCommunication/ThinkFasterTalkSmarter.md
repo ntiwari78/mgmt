@@ -163,3 +163,109 @@ This book teaches how to handle **spontaneous speaking** with confidence and cla
 * [Progressive Muscle Relaxation](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation)
 * [Listening Skills](https://en.wikipedia.org/wiki/Active_listening)
 
+---
+---
+
+
+
+# 🗣️ 6 Structures to Survive & Thrive in Spontaneous Speaking
+
+*From Thinking Fast, Talk Smart by Matt Abrahams*
+
+These frameworks help organize thoughts quickly when speaking **on the spot** — in meetings, presentations, interviews, or Q&A sessions.
+
+---
+
+## 1. **Problem – Solution – Benefit**
+
+* **Formula**: *Problem → Solution → Benefit*
+* **Use Case**: Proposing changes, answering “How should we fix this?”
+
+**Example**:
+
+* **Problem**: “Our project deadlines are slipping because task handoffs aren’t clearly defined.”
+* **Solution**: “We should introduce a shared project tracker with defined owners for each task.”
+* **Benefit**: “This will reduce confusion, speed up progress, and ensure accountability.”
+
+---
+
+## 2. **What? – So What? – Now What?**
+
+* **Formula**: *State fact → Explain importance → Suggest action*
+* **Use Case**: Status updates, answering “Why does this matter?”
+
+**Example**:
+
+* **What?**: “We’ve seen a 20% increase in customer support tickets this month.”
+* **So What?**: “This signals a potential product usability issue that could hurt retention.”
+* **Now What?**: “Let’s analyze the top issues and prioritize fixes in the next sprint.”
+
+---
+
+## 3. **Comparison**
+
+* **Formula**: *Option A → Option B → Recommendation*
+* **Use Case**: Decision-making discussions, trade-off analysis.
+
+**Example**:
+
+* **Option A**: “We can outsource development, which reduces workload but increases cost.”
+* **Option B**: “Or, we build in-house, which keeps costs down but delays launch.”
+* **Recommendation**: “Given our timeline pressure, outsourcing part of the work is the better choice.”
+
+---
+
+## 4. **Timeline (Past – Present – Future)**
+
+* **Formula**: *Past → Present → Future*
+* **Use Case**: Storytelling, project updates, vision-sharing.
+
+**Example**:
+
+* **Past**: “Last year, we launched the beta version with 500 test users.”
+* **Present**: “Today, we have 5,000 active users and growing demand.”
+* **Future**: “Next, we plan to expand into new regions and roll out premium features.”
+
+---
+
+## 5. **Cause – Effect – Remedy**
+
+* **Formula**: *Cause → Effect → Solution*
+* **Use Case**: Root cause analysis, addressing challenges.
+
+**Example**:
+
+* **Cause**: “Customer churn has increased because our onboarding process is too complex.”
+* **Effect**: “This is leading to lost revenue and higher acquisition costs.”
+* **Remedy**: “We should simplify onboarding and add guided tutorials to help new users succeed.”
+
+---
+
+## 6. **Point – Reason – Example – Point (PREP)**
+
+* **Formula**: *Point → Reason → Example → Repeat Point*
+* **Use Case**: Q&A sessions, persuasive communication.
+
+**Example**:
+
+* **Point**: “We should prioritize mobile-first design.”
+* **Reason**: “Because over 70% of our users access the app from mobile devices.”
+* **Example**: “For instance, last quarter’s analytics showed that mobile engagement was 3x higher than desktop.”
+* **Restated Point**: “That’s why a mobile-first strategy will best serve our users.”
+
+---
+
+# ✅ Final Version: Spontaneous Speaking Toolkit
+
+| Structure                                   | Formula                              | Workplace Example                                                                         |
+| ------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| **Problem – Solution – Benefit**            | Problem → Solution → Benefit         | “Deadlines are slipping → Use project tracker → Improves accountability and speed.”       |
+| **What? – So What? – Now What?**            | Fact → Why it matters → Action       | “Tickets ↑ 20% → Signals usability issue → Prioritize fixes next sprint.”                 |
+| **Comparison**                              | Option A → Option B → Recommendation | “Outsource = fast but costly → In-house = cheap but slow → Outsource partially.”          |
+| **Timeline (Past – Present – Future)**      | Past → Present → Future              | “Beta launched → 5k active users now → Expand globally next.”                             |
+| **Cause – Effect – Remedy**                 | Cause → Effect → Solution            | “Complex onboarding → Churn ↑ → Add tutorials, simplify flow.”                            |
+| **Point – Reason – Example – Point (PREP)** | Point → Reason → Example → Restate   | “Prioritize mobile → 70% users on mobile → Engagement 3x desktop → Mobile-first is best.” |
+
+---
+
+
